@@ -1,0 +1,14 @@
+.bodyreal{
+      max-width: 1200px;
+      margin: 0 auto;
+      height: auto;
+      display: grid;
+      justify-content: center;
+      align-items: center;
+}
+
+.button{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+}
